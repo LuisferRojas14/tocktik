@@ -1,7 +1,7 @@
 List<Map<String, dynamic>> videoPosts = [
   {
     'name': 'Subiendo escaleras automáticas',
-    'videoUrl': 'assets/vi  deos/1.mp4',
+    'videoUrl': 'assets/videos/1.mp4',
     'likes': 23230,
     'views': 1523,
   },
@@ -47,6 +47,10 @@ List<Map<String, dynamic>> videoPosts = [
     'likes': 342,
     'views': 3332,
   },
-
-
+  {
+    'name': 'Prueba video',
+    'videoUrl': 'assets/videos/9.mp4',
+    'likes': 23230,
+    'views': 1523,
+  },
 ];

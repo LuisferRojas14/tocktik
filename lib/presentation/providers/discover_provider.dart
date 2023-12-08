@@ -6,7 +6,6 @@ import 'package:tocktik/shared/data/local_video_posts.dart';
 class DiscoverProvider extends ChangeNotifier {
 
   //Todo 1: Create a list of VideoPost and name it videos 
-
   bool initialLoading = true;
   List<VideoPost> videos = [];
 

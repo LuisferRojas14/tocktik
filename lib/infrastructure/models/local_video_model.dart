@@ -1,8 +1,6 @@
 import 'package:tocktik/domain/entities/video_post.dart';
 
-
 class LocalVideoModel {
-   
   final String name;
   final String videoUrl;
   final int likes;
