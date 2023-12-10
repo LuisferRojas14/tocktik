@@ -48,9 +48,9 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 3332,
   },
   {
-    'name': 'Prueba video',
+    'name': 'LLEGÓ EL PODER',
     'videoUrl': 'assets/videos/9.mp4',
-    'likes': 23230,
-    'views': 1523,
-  },
+    'likes': 24230,
+    'views': 1343,
+  }
 ];
