@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:tocktik/config/theme/app_theme.dart';
-import 'package:tocktik/domain/repositories/video_posts_repository.dart';
 import 'package:tocktik/infrastructure/datasources/local_video_datasource_imp.dart';
 import 'package:tocktik/infrastructure/repositories/video_posts_repository_imp.dart';
 import 'package:tocktik/presentation/providers/discover_provider.dart';
