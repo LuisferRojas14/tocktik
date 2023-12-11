@@ -4,7 +4,7 @@ import 'package:tocktik/domain/repositories/video_posts_repository.dart';
 
 class VideoPostsRepositoryImp implements VideoPostRepository {
   
-  late final VideoPostDatasource videosDatasource;
+  final VideoPostDatasource videosDatasource;
 
   VideoPostsRepositoryImp({
     required this.videosDatasource
